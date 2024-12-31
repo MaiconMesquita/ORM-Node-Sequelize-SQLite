@@ -64,8 +64,12 @@ Cada aula trouxe um novo aprendizado, desde a estrutura inicial da API até a ma
 
 > Teste a API utilizando o **Postman** ou outra ferramenta de sua preferência.
 
+---
+
 ## 🤝 Autor
   * **Maicon Mesquita**
+
+---
 
 ## 🏷️ Licença 
   Este projeto foi desenvolvido como parte de um curso e não possui uma licença específica.
